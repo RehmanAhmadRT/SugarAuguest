@@ -66,22 +66,6 @@ include('custom/metadata/three_bee_three_aye_1MetaData.php');
 
 ?>
 <?php
-// Merged from custom/Extension/application/Ext/TableDictionary/three_aye_three_bee.php
- 
- //WARNING: The contents of this file are auto-generated
-include('custom/metadata/three_aye_three_beeMetaData.php');
-
-
-?>
-<?php
-// Merged from custom/Extension/application/Ext/TableDictionary/three_bee_three_aye.php
- 
- //WARNING: The contents of this file are auto-generated
-include('custom/metadata/three_bee_three_ayeMetaData.php');
-
-
-?>
-<?php
 // Merged from custom/Extension/application/Ext/TableDictionary/three_cee_three_aye.php
 
  //WARNING: The contents of this file are auto-generated

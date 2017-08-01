@@ -44,7 +44,7 @@ $app_list_strings['moduleListSingular']['rt2_M2'] = 'Two';
 
 ?>
 <?php
-// Merged from custom/Extension/application/Ext/Language/en_us.three.php
+// Merged from custom/Extension/application/Ext/Language/en_us.final.php
 
 /*
  * Your installation or use of this SugarCRM file is subject to the applicable
@@ -57,11 +57,11 @@ $app_list_strings['moduleListSingular']['rt2_M2'] = 'Two';
  * Copyright (C) SugarCRM Inc. All rights reserved.
  */
 
-$app_list_strings['moduleList']['three_aye'] = 'ayes';
-$app_list_strings['moduleList']['three_bee'] = 'bees';
-$app_list_strings['moduleList']['three_cee'] = 'cees';
-$app_list_strings['moduleListSingular']['three_aye'] = 'aye';
-$app_list_strings['moduleListSingular']['three_bee'] = 'bee';
-$app_list_strings['moduleListSingular']['three_cee'] = 'cee';
+$app_list_strings['moduleList']['final_ten'] = 'tens';
+$app_list_strings['moduleList']['final_twenty'] = 'twentys';
+$app_list_strings['moduleList']['final_thirty'] = 'thirtys';
+$app_list_strings['moduleListSingular']['final_ten'] = 'ten';
+$app_list_strings['moduleListSingular']['final_twenty'] = 'twenty';
+$app_list_strings['moduleListSingular']['final_thirty'] = 'thirty';
 
 ?>

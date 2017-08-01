@@ -31,18 +31,18 @@ $moduleList[] = 'rt2_M2';
 
 ?>
 <?php
-// Merged from custom/Extension/application/Ext/Include/three.php
+// Merged from custom/Extension/application/Ext/Include/final.php
  
  //WARNING: The contents of this file are auto-generated
-$beanList['three_aye'] = 'three_aye';
-$beanFiles['three_aye'] = 'modules/three_aye/three_aye.php';
-$moduleList[] = 'three_aye';
-$beanList['three_cee'] = 'three_cee';
-$beanFiles['three_cee'] = 'modules/three_cee/three_cee.php';
-$moduleList[] = 'three_cee';
-$beanList['three_bee'] = 'three_bee';
-$beanFiles['three_bee'] = 'modules/three_bee/three_bee.php';
-$moduleList[] = 'three_bee';
+$beanList['final_twenty'] = 'final_twenty';
+$beanFiles['final_twenty'] = 'modules/final_twenty/final_twenty.php';
+$moduleList[] = 'final_twenty';
+$beanList['final_thirty'] = 'final_thirty';
+$beanFiles['final_thirty'] = 'modules/final_thirty/final_thirty.php';
+$moduleList[] = 'final_thirty';
+$beanList['final_ten'] = 'final_ten';
+$beanFiles['final_ten'] = 'modules/final_ten/final_ten.php';
+$moduleList[] = 'final_ten';
 
 
 ?>
